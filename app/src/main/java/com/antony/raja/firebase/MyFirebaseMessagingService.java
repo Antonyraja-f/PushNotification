@@ -36,6 +36,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         Intent intent
                 = new Intent(this, MainActivity.class);
         //Github check
+        //one activity
 
         // Assign channel ID
         String channel_id = "notification_channel";
