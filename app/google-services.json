@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103518339662",
+    "project_id": "antony-7a438",
+    "storage_bucket": "antony-7a438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103518339662:android:0d781dcaa06187125df91f",
+        "android_client_info": {
+          "package_name": "com.antony.raja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103518339662-sme644dfll4tt4h9fkh5nmtaki57tjn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antony.raja",
+            "certificate_hash": "c42cef65b4eee73843d1297e9f4f2f7b636f25c4"
+          }
+        },
+        {
+          "client_id": "103518339662-h8v1qrqp6cjtc1vtr7k0ao6v8th30ier.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPFU_QBELuXSzIwdtB-zgqMFbl9K14jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103518339662-h8v1qrqp6cjtc1vtr7k0ao6v8th30ier.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
