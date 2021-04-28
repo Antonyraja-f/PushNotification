@@ -35,6 +35,8 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         // Pass the intent to switch to the MainActivity
         Intent intent
                 = new Intent(this, MainActivity.class);
+        //Github check
+
         // Assign channel ID
         String channel_id = "notification_channel";
         // Here FLAG_ACTIVITY_CLEAR_TOP flag is set to clear
